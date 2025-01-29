@@ -1,6 +1,6 @@
 # Hi, I'm Snegal Varsan 👋🏽🧑🏽‍💻
 
-![COVER IMAGE](/cover.jpg)
+![COVER IMAGE](/snegalvarsan.jpg)
 
 **I'm thrilled to have you here! 🚀 Below is a quick overview of who I am and what I do. Feel free to explore my work, connect, or collaborate! 🌟**
 
